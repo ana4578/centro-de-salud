@@ -1,0 +1,1 @@
+function urlTo(name){site="https://www.mujerysalud.es/";location.href=site+name;}

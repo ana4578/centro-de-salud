@@ -1,0 +1,15 @@
+/*
+Template: Divi
+*/
+@import url("../Divi/style.css");
+.descripcion {
+	width: 80%;
+	max-width: 1080px;
+}
+/* Estilo enlace ofuscado */
+.octl{
+	color: #8224e3;
+}
+.octl:hover{
+	cursor: pointer;
+}
